@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Ses sistemi yaptırmak için: ibnid#7443",
+        "GUILD_ID": "803993553368907786",
+        "VOICE_CHANNEL": "803998359953735701",
+        "MIN_STAFF_ROLE": "803998277774475296"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "ODAzNjYyMTAxMzM5NDM5MTE1.YBBCqA.hNAa1t_hK2R7nirutRnwaAYwwho"
+}
